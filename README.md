@@ -34,16 +34,16 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
 * Changed salary entries to numeric data
 * Created different columns for chosen skills and checked if they were mentioned in the job description column ('1'=Skill required, '0'= Skill not required
 
-  *Python Skills
-  *R Skills 
-  *Java Skills
-  *AWS Skills
-  *Hadoop Skills
-  *SQL Skills 
-  *Spark Skills
-  *R Skills 
-  *Matlab Skills
-  *Tensorflow Skills 
-  *NLP Skills
+  * Python Skills
+  * R Skills 
+  * Java Skills
+  * AWS Skills
+  * Hadoop Skills
+  * SQL Skills 
+  * Spark Skills
+  * R Skills 
+  * Matlab Skills
+  * Tensorflow Skills 
+  * NLP Skills
 
 
