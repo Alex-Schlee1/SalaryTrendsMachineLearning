@@ -34,7 +34,7 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
 * Changed salary entries to numeric data
 * Created different columns for chosen skills and checked if they were mentioned in the job description column ('1'=Skill required, '0'= Skill not required
 
-  * Python Skills
+  * Python Skills       
   * R Skills 
   * Java Skills
   * AWS Skills
@@ -45,5 +45,33 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
   * Matlab Skills
   * Tensorflow Skills 
   * NLP Skills
+  <img src='/image3.png' width=600>
+
+## Step 3- Data Visualization and insigths
+
+#### Salary distribution
+
+<img src='/image4.png' width=400>
+
+#### Top 5 job offering cities
+
+<img src='/image5.png' width=400>
+
+#### Top 5 represented companies
+
+<img src='/image6.png' width=400>
+
+#### Pivot table showing top 10 best paying cities in descending order
+
+<img src='/image7.png' width=300>
+
+#### Top 3 most important skills according to available job description
+
+<img src='/image8.png' width=175>   <img src='/image9.png' width=200> <img src='/image10.png' width=200>
+
+
+
+# Project Limitation and Conclusion
+Since more than 70% of the data was removed due to missing salary information and we just have 211 rows with job information, I decided not to build a machine learning algorithm to predict the salary (target variable). According to my opinion the dataset is just to small. I consider for future projects to build for example a multiple linear regression model when more data is available. In order to achieve that, other job platforms like for example glassdoor.com can be observed where probably more salary information is available and can be scraped.  
 
 
