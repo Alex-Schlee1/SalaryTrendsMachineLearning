@@ -1,14 +1,25 @@
 # Salary Trends for Machine Learning- Project Overview
-Project Goal: Get first insights about the job market for Machine Learning Engineers in England
-* Rhi
+### Project Goal: Get insights about the job market for Machine Learning Engineers in England
+* Scraped job information from Indeed.com using Python and Selenium
+* Saved results in a csv file and manipulated and worked with the data using the pandas package
 
 
 
-## SalaryTrendsMachineLearning
-* sdaas
+### Code and Resources
+#### Python Version: 3.7
+#### Packages: selenium, matplotlib, seaborn, numpy
 
-## SalaryTrendsMachineLearning
-* sdaas
+
+
+
+## Step 1- Scraping Data with Selenium
+* Job Title
+* Company name
+* Location
+* Salary
+* Job description
+
+
 
 ### SalaryTrendsMachineLearning
 * sdaas
