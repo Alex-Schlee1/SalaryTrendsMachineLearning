@@ -18,8 +18,8 @@
 * Location
 * Salary
 * Job description
+<img src='/image1.png' width=800>
 
 
-
-### SalaryTrendsMachineLearning
-* sdaas
+### Output in pandas after scraping
+<img src='/image2.png' width=800>
