@@ -46,4 +46,4 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
   * Tensorflow Skills 
   * NLP Skills
 
-
+<img src='/image3.png' width=600>
