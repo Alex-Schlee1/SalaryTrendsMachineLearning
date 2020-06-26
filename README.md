@@ -1,4 +1,34 @@
 # Salary Trends for Machine Learning- Project Overview
+
+* [Table of Contents](#markdown-header-span-elements)
+	* Project Goal(#markdown-header-Project Goal: Get insights about the job market for Machine Learning Engineers in England)
+
+	* [Strikethrough](#markdown-header-strikethrough)
+	
+	* [Preformatted code](#markdown-header-preformatted-code)
+
+	* [Links](#markdown-header-links)
+
+	* [Images](#markdown-header-images)
+
+
+
+
++ [Table of Contents](#sub-sub-heading-1)
+    + [Project Goal](#Heading)
+    + [Code and Resources](#Heading)
+    + [Part 1- Scraping Data with Selenium](#Heading)
+    + [Part 2- Data Cleaning and Feature Engineering](#Heading)
+    + [Part 3- Data Visualization and insigths](#Heading)
+    + [Part 4- Project Limitation and Conclusion](#Heading)
+    
+  
+
+
+
+
+
+
 ### Project Goal: Get insights about the job market for Machine Learning Engineers in England
 * Scraped job information from Indeed.com using Python and Selenium
 * Saved results in a csv file and manipulated and worked with the data using the pandas package
@@ -13,7 +43,7 @@
 
 
 
-## Step 1- Scraping Data with Selenium
+## Part 1- Scraping Data with Selenium
 * Job Title
 * Company name
 * Location
@@ -26,7 +56,7 @@
 <img src='/image2.png' width=600>
 
 
-## Step 2- Data Cleaning and Feature Engineering
+## Part 2- Data Cleaning and Feature Engineering
 After scraping the data and storing it in csv and pandas, I had to do some cleaning steps like:
 * remove rows where salary information is not availabe(before cleaning: 794 job entries, after cleaning: 211 job entries; data loss of more than 70(!))
 * Changed the currency from '£' to '$'
@@ -47,7 +77,7 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
   * NLP Skills
   <img src='/image3.png' width=600>
 
-## Step 3- Data Visualization and insigths
+## Part 3- Data Visualization and insigths
 
 #### Salary distribution
 
@@ -71,7 +101,7 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
 
 
 
-# Project Limitation and Conclusion
+## Part 4- Project Limitation and Conclusion
 Since more than 70% of the data was removed due to missing salary information and we just have 211 rows with job information, I decided not to build a machine learning algorithm to predict the salary (target variable). According to my opinion the dataset is just to small. I consider for future projects to build for example a multiple linear regression model when more data is available. In order to achieve that, other job platforms like for example glassdoor.com can be observed where probably more salary information is available and can be scraped.  
 
 
