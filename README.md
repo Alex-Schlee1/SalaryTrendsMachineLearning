@@ -27,7 +27,7 @@
 ### Code and Resources
 * Python Version: 3.7
 * Environment: Jupyter Notebook
-* Packages: selenium, matplotlib, seaborn, numpy
+* Packages: Selenium, Matplotlib, Seaborn, Numpy
 
 
 
