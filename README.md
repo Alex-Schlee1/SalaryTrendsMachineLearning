@@ -38,7 +38,7 @@
 * Location
 * Salary
 * Job description
-<img src='/image1.png' width=700>
+<img src='./images/image1.png' width=700>
 
 
 ### Output in pandas after scraping (first 5 entries)
