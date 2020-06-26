@@ -42,7 +42,7 @@
 
 
 ### Output in pandas after scraping (first 5 entries)
-<img src='/image2.png' width=600>
+<img src='./images/image2.png' width=600>
 
 
 ## Part 2- Data Cleaning and Feature Engineering
@@ -64,29 +64,29 @@ After scraping the data and storing it in csv and pandas, I had to do some clean
   * Matlab Skills
   * Tensorflow Skills 
   * NLP Skills
-  <img src='/image3.png' width=600>
+  <img src='./images/image3.png' width=600>
 
 ## Part 3- Data Visualization and insigths
 
 #### Salary distribution
 
-<img src='/image4.png' width=400>
+<img src='./images/image4.png' width=400>
 
 #### Top 5 job offering cities
 
-<img src='/image5.png' width=400>
+<img src='./images/image5.png' width=400>
 
 #### Top 5 represented companies
 
-<img src='/image6.png' width=400>
+<img src='./images/image6.png' width=400>
 
 #### Pivot table showing top 10 best paying cities in descending order
 
-<img src='/image7.png' width=300>
+<img src='./images/image7.png' width=300>
 
 #### Top 3 most important skills according to available job description
 
-<img src='/image8.png' width=175>   <img src='/image9.png' width=200> <img src='/image10.png' width=200>
+<img src='./images/image8.png' width=175>   <img src='./images/image9.png' width=200> <img src='./images/image10.png' width=200>
 
 
 
