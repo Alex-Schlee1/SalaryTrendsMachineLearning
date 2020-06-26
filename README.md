@@ -1,7 +1,7 @@
 # Salary Trends for Machine Learning- Project Overview
 
 + [Table of Contents](#sub-sub-heading-1)
-    + [Project Goal: Get insights about the job market for Machine Learning Engineers in England](#project-goal--get-insights-about-the-job-market-for-machine-learning-engineers-in-england)
+    + [Project Goal and procedure](#project-goal-and-procedure)
     + [Code and Resources](#code-and-resources)
     + [Part 1- Scraping Data with Selenium](#part-1--Scraping-data-with-selenium)
     + [Part 2- Data Cleaning and Feature Engineering](#part-2--Data-cleaning-and-feature-engineering)
@@ -9,16 +9,18 @@
     + [Part 4- Project Limitation and Conclusion](#part-4-project-limitation-and-conclusion)
     
   
-  [Go to Real Cool Heading section](#real-cool-heading)
 
 
 
 
 
 
-### Project Goal: Get insights about the job market for Machine Learning Engineers in England
+
+### Project Goal and procedure: 
+* Goal: Get insights about the job market for Machine Learning Engineers in England
 * Scraped job information from Indeed.com using Python and Selenium
 * Saved results in a csv file and manipulated and worked with the data using the pandas package
+* visualization of data using seaborn and matplotlib packages
 
 
 
