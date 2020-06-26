@@ -41,7 +41,7 @@
 <img src='/image1.png' width=700>
 
 
-#### Output in pandas after scraping (first 5 entries)
+### Output in pandas after scraping (first 5 entries)
 <img src='/image2.png' width=600>
 
 
