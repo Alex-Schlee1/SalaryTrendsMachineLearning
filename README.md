@@ -1,6 +1,7 @@
 # Salary Trends for Machine Learning- Project Overview
 
 + [Table of Contents](#sub-sub-heading-1)
+    + [Credits](#credits)
     + [Project Goal and procedure](#project-goal-and-procedure)
     + [Code and Resources](#code-and-resources)
     + [Part 1- Scraping Data with Selenium](#part-1--Scraping-data-with-selenium)
@@ -12,7 +13,8 @@
 
 
 
-
+ ### Credits: 
+A big thank you goes to [KenJee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg), [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ), [Krish Naik](https://www.youtube.com/user/krishnaik06), [Keith Galli](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)  and to the whole [Edureka Team](https://www.youtube.com/user/edurekaIN) who put a lot of effort to teach people Data Science,Machine Learning, Statistics and a lot of other related topics for free.
 
 
 
