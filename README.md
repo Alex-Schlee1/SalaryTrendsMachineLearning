@@ -20,7 +20,7 @@ A big thank you goes to [KenJee](https://www.youtube.com/channel/UCiT9RITQ9PW6Bh
 
 ### Project Goal and procedure: 
 * Goal: Get insights about the job market for Machine Learning Engineers in England
-* Scraped job information from [Indeed.com] (https://de.indeed.com/) using Python and Selenium
+* Scraped job information from [Indeed.com](https://de.indeed.com/) using Python and Selenium
 * Saved results in a csv file and manipulated and worked with the data using the pandas package
 * visualization of data using seaborn and matplotlib packages
 
